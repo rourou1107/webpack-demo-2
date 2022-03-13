@@ -1,0 +1,7 @@
+{
+  "name": "webpack-demo-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhangrp <zhangrp@bairuitech.com>",
+  "license": "MIT"
+}
